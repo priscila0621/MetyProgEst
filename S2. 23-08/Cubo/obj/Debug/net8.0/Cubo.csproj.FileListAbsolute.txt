@@ -1,0 +1,15 @@
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\bin\Debug\net8.0\Cubo.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\bin\Debug\net8.0\Cubo.deps.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\bin\Debug\net8.0\Cubo.runtimeconfig.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\bin\Debug\net8.0\Cubo.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\bin\Debug\net8.0\Cubo.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.AssemblyInfoInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.AssemblyInfo.cs
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.sourcelink.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\refint\Cubo.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\Cubo.genruntimeconfig.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\Cubo\obj\Debug\net8.0\ref\Cubo.dll

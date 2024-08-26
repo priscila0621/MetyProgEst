@@ -1,0 +1,15 @@
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\bin\Debug\net8.0\CalcularNota.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\bin\Debug\net8.0\CalcularNota.deps.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\bin\Debug\net8.0\CalcularNota.runtimeconfig.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\bin\Debug\net8.0\CalcularNota.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\bin\Debug\net8.0\CalcularNota.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.AssemblyInfoInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.AssemblyInfo.cs
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.sourcelink.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\refint\CalcularNota.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\CalcularNota.genruntimeconfig.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S2. 23-08\CalcularNota\obj\Debug\net8.0\ref\CalcularNota.dll
