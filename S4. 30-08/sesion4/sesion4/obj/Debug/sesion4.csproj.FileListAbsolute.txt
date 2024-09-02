@@ -1,0 +1,10 @@
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\bin\Debug\sesion4.exe.config
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\bin\Debug\sesion4.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\bin\Debug\sesion4.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\obj\Debug\sesion4.csproj.AssemblyReference.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\obj\Debug\sesion4.Form1.resources
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\obj\Debug\sesion4.Properties.Resources.resources
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\obj\Debug\sesion4.csproj.GenerateResource.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\obj\Debug\sesion4.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\obj\Debug\sesion4.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\sesion4\sesion4\obj\Debug\sesion4.pdb

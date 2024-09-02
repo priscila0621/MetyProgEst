@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\clases\\rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|solutionrelative:sesion4\\clases\\rrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|solutionrelative:sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\sesion4\\sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|solutionrelative:sesion4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|solutionrelative:sesion4\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\sesion4\\sesion4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|solutionrelative:sesion4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|sesion4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD703069-77A0-457C-A8B5-C74F0789DE6C}|sesion4\\sesion4.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\sesion4\\sesion4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sesion4",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\sesion4.csproj",
+              "RelativeDocumentMoniker": "sesion4\\sesion4.csproj",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\sesion4.csproj",
+              "RelativeToolTip": "sesion4\\sesion4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-02T00:50:38.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\Form1.cs",
+              "RelativeDocumentMoniker": "sesion4\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\Form1.cs",
+              "RelativeToolTip": "sesion4\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:40:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RRHH.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\clases\\RRHH.cs",
+              "RelativeDocumentMoniker": "sesion4\\clases\\RRHH.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\clases\\RRHH.cs*",
+              "RelativeToolTip": "sesion4\\clases\\RRHH.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:44:55.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "sesion4\\clases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\clases\\Empleado.cs",
+              "RelativeToolTip": "sesion4\\clases\\Empleado.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:20:25.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\Form1.cs",
+              "RelativeDocumentMoniker": "sesion4\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sesion4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:17:02.901Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\Program.cs",
+              "RelativeDocumentMoniker": "sesion4\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\sesion4\\sesion4\\Program.cs",
+              "RelativeToolTip": "sesion4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T23:20:08.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

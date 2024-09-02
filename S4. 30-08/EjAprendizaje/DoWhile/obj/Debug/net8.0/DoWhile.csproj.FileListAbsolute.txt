@@ -1,0 +1,15 @@
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.sourcelink.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll

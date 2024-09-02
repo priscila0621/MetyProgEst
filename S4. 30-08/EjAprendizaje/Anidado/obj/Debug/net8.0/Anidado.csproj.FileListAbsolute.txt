@@ -1,0 +1,15 @@
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\bin\Debug\net8.0\Anidado.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\bin\Debug\net8.0\Anidado.deps.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\bin\Debug\net8.0\Anidado.runtimeconfig.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\bin\Debug\net8.0\Anidado.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\bin\Debug\net8.0\Anidado.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.AssemblyInfoInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.AssemblyInfo.cs
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.sourcelink.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\refint\Anidado.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\Anidado.genruntimeconfig.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S4. 30-08\EjAprendizaje\Anidado\obj\Debug\net8.0\ref\Anidado.dll

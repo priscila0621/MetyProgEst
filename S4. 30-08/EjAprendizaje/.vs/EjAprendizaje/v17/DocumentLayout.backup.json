@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86739F4-2614-445D-9A51-D863EF1F581E}|Ejercicio\\Ejercicio.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\ejaprendizaje\\ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86739F4-2614-445D-9A51-D863EF1F581E}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777BB33D-CA7D-4AC7-92AB-E4588FC2FDC5}|Anidado\\Anidado.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\ejaprendizaje\\anidado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777BB33D-CA7D-4AC7-92AB-E4588FC2FDC5}|Anidado\\Anidado.csproj|solutionrelative:anidado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885FE713-8B4F-42B3-B2F4-771D91CBA241}|For\\For.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\ejaprendizaje\\for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885FE713-8B4F-42B3-B2F4-771D91CBA241}|For\\For.csproj|solutionrelative:for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF5021C-F360-43AF-9ADC-C55692D3737A}|DoWhile\\DoWhile.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\ejaprendizaje\\dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF5021C-F360-43AF-9ADC-C55692D3737A}|DoWhile\\DoWhile.csproj|solutionrelative:dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E0469F-70C4-4818-948B-E5E7EF50A5CA}|IfElse\\IfElse.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\ejaprendizaje\\ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E0469F-70C4-4818-948B-E5E7EF50A5CA}|IfElse\\IfElse.csproj|solutionrelative:ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4F6632-3AB2-4A8C-A855-BAEAB9A5F20A}|EjAprendizaje\\EjAprendizaje.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s4. 30-08\\ejaprendizaje\\ejaprendizaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4F6632-3AB2-4A8C-A855-BAEAB9A5F20A}|EjAprendizaje\\EjAprendizaje.csproj|solutionrelative:ejaprendizaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\Ejercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\Ejercicio\\Program.cs",
+              "RelativeToolTip": "Ejercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:24:04.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\Anidado\\Program.cs",
+              "RelativeDocumentMoniker": "Anidado\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\Anidado\\Program.cs",
+              "RelativeToolTip": "Anidado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:19:44.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\For\\Program.cs",
+              "RelativeDocumentMoniker": "For\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\For\\Program.cs",
+              "RelativeToolTip": "For\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:18:06.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\DoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "DoWhile\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\DoWhile\\Program.cs",
+              "RelativeToolTip": "DoWhile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:53:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\IfElse\\Program.cs",
+              "RelativeDocumentMoniker": "IfElse\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\IfElse\\Program.cs",
+              "RelativeToolTip": "IfElse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:50:32.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\EjAprendizaje\\Program.cs",
+              "RelativeDocumentMoniker": "EjAprendizaje\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S4. 30-08\\EjAprendizaje\\EjAprendizaje\\Program.cs",
+              "RelativeToolTip": "EjAprendizaje\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:46:34.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
