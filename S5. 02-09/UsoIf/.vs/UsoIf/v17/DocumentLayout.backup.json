@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S5. 02-09\\UsoIf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA72C4E2-4E1D-45D8-AAB0-01A94AF5F3CE}|UsoIf\\UsoIf.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s5. 02-09\\usoif\\usoif\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72C4E2-4E1D-45D8-AAB0-01A94AF5F3CE}|UsoIf\\UsoIf.csproj|solutionrelative:usoif\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA72C4E2-4E1D-45D8-AAB0-01A94AF5F3CE}|UsoIf\\UsoIf.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s5. 02-09\\usoif\\usoif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA72C4E2-4E1D-45D8-AAB0-01A94AF5F3CE}|UsoIf\\UsoIf.csproj|solutionrelative:usoif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Evaluate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S5. 02-09\\UsoIf\\UsoIf\\models\\Evaluate.cs",
+              "RelativeDocumentMoniker": "UsoIf\\models\\Evaluate.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S5. 02-09\\UsoIf\\UsoIf\\models\\Evaluate.cs",
+              "RelativeToolTip": "UsoIf\\models\\Evaluate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:24:08.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S5. 02-09\\UsoIf\\UsoIf\\Program.cs",
+              "RelativeDocumentMoniker": "UsoIf\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S5. 02-09\\UsoIf\\UsoIf\\Program.cs",
+              "RelativeToolTip": "UsoIf\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:20:35.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

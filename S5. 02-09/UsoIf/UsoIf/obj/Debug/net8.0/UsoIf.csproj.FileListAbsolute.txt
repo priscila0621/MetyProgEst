@@ -1,0 +1,15 @@
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\bin\Debug\net8.0\UsoIf.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\bin\Debug\net8.0\UsoIf.deps.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\bin\Debug\net8.0\UsoIf.runtimeconfig.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\bin\Debug\net8.0\UsoIf.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\bin\Debug\net8.0\UsoIf.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.AssemblyInfoInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.AssemblyInfo.cs
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.sourcelink.json
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\refint\UsoIf.dll
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\UsoIf.genruntimeconfig.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S5. 02-09\UsoIf\UsoIf\obj\Debug\net8.0\ref\UsoIf.dll

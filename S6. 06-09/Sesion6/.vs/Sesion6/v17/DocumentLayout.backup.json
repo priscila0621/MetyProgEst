@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s6. 06-09\\sesion6\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s6. 06-09\\sesion6\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s6. 06-09\\sesion6\\ejercicio1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell e7250\\documents\\metyprogest\\s6. 06-09\\sesion6\\ejercicio1\\img\\referencias\\link.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4586C15-D79B-4829-B5AF-2EB5F096BEB9}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\img\\referencias\\link.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwGkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:29:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "link.txt",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\img\\referencias\\link.txt",
+              "RelativeDocumentMoniker": "Ejercicio1\\img\\referencias\\link.txt",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\img\\referencias\\link.txt",
+              "RelativeToolTip": "Ejercicio1\\img\\referencias\\link.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-06T13:45:14.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:33:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL E7250\\Documents\\MetyProgEst\\S6. 06-09\\Sesion6\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:30:35.941Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
