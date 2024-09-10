@@ -1,0 +1,10 @@
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\bin\Debug\Ej1.exe.config
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\bin\Debug\Ej1.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\bin\Debug\Ej1.pdb
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\obj\Debug\Ej1.csproj.AssemblyReference.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\obj\Debug\Ej1.Form1.resources
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\obj\Debug\Ej1.Properties.Resources.resources
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\obj\Debug\Ej1.csproj.GenerateResource.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\obj\Debug\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\obj\Debug\Ej1.exe
+C:\Users\DELL E7250\Documents\MetyProgEst\S7. 09-09\Sesion7\Ej1\obj\Debug\Ej1.pdb
